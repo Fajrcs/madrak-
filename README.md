@@ -12,7 +12,9 @@ Dataset
 
 The project uses the PaySim dataset, which contains simulated financial transaction data. The dataset was cleaned and preprocessed before training the machine learning model.
 
+Due to the dataset’s large file size, it is not included in this repository. The dataset can be downloaded from its original source and placed in the project directory before running the notebook.
 Project Workflow
+
  • Data exploration and understanding
  • Data cleaning and preprocessing
  • Feature selection
